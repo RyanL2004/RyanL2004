@@ -5,19 +5,6 @@
 </h1>
 
 <h3 align="center">A passionate 🎓 Graduate Software Engineer!</h3>
-
-
-<div align="center">
-    <h3> My work <h3/>
-  <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SaaS%20Translation%20App-%23006DFB.svg?style=for-the-badge" alt="SaaS Translation App" />
-  </a>
-  <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
-    <img src="https://img.shields.io/badge/Totterdown%20Nature%20Reserve-%234CAF50.svg?style=for-the-badge" alt="Totterdown Nature Reserve" />
-  </a>
-</div>
-<br />
-
 <div align="center"> 
   <a href="mailto:rayanlouahche2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,6 +17,23 @@
   </a>
 </div>
 <br/>
+
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
+
+  <h3>🛠️ SaaS Translation App</h3>
+  <p>A software as a service platform designed for seamless text translation.</p>
+  <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20App-%23006DFB.svg?style=for-the-badge" alt="View SaaS Translation App" />
+  </a>
+
+  <h3>🌳 Totterdown Nature Reserve System</h3>
+  <p>A web-based management system for an organization supporting community and nature.</p>
+  <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20System-%234CAF50.svg?style=for-the-badge" alt="View Totterdown Nature Reserve System" />
+  </a>
+</div>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
