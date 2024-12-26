@@ -1,4 +1,11 @@
 ## Hi there 👋
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 ![Rayan's stats](https://github-readme-stats.vercel.app/api?username=RyanL2004&show_icons=true&theme=transparent)
 https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg
 [https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg](url)
