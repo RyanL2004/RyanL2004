@@ -16,8 +16,8 @@
 
 <br/><br/>
 
-<p>I'm a 20 years old, Proficient in programming languages such as JavaScript, C#,
-and Java, with strong interest and hands-on experience in Front-End development and adherence</p>
+<p>I'm a 21 years old, Proficient in programming languages such as JavaScript, Python,
+and Java, with a strong interest in modern Libraries</p>
 <hr/>
 
 <h2><strong>Contributions</strong></h2>
