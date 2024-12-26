@@ -1,19 +1,43 @@
-## Hi there 👋
+<h1>
+    Hello there <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
+</h1>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
+
+<p>My name is Rayan here are my github stats:</p>
+
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
+
+<br/><br/>
+
+<p>I'm a 20 years old, Proficient in programming languages such as JavaScript, C#,
+and Java, with strong interest and hands-on experience in Front-End development and adherence</p>
+<hr/>
+
+<h2><strong>Contributions</strong></h2>
+
+<div align=center>
+
 ![image](https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c)
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/ryanL2004)
+
+</div>
 
 
-<!--
-**RyanL2004/RyanL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> <strong>Tech stacks:</strong></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,python,java,spring,mysql,php,cs,dotnet" />
+  </a>
+</p>
+
+<br/>
+<div align=center>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
