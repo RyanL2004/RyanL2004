@@ -1,10 +1,11 @@
-<h1>
-    Hello there <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width="25"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan+Louahche!;" />
 </h1>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
 
-<p>My name is Rayan here are my github stats:</p>
+<p>Im a Graduate/Junior Software Engineer</p>
 
 <br>
 <div align=center>
