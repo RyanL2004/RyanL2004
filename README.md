@@ -24,12 +24,12 @@
 
 <div align="center">
   <h3>Languages:</h3>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white" alt="CSS" />
 
   <h3>Frameworks and Libraries:</h3>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" />
