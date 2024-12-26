@@ -19,7 +19,7 @@
 <br/>
 
 
-<div>
+<div align="center">
 <h2> 💼 Professional Work Showcase</h2>
 <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%23006DFB.svg?style=for-the-badge" alt="Smart Translation SaaS" />
