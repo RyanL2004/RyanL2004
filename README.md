@@ -65,7 +65,7 @@
   <table align="center" style="width: 100%; border-collapse: collapse;">
     <tr>
       <td align="center" width="50%" style="padding: 10px; background-color: #0D1117">
-        <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10&bg_color=0D1117" alt="streak stats" />
+        <img src="https://streak-stats.demolab.com?user=RyanL2004&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
       </td>
       <td align="center" width="50%" style="padding: 10px;">
         <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
