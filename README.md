@@ -19,30 +19,16 @@
 <br/>
 
 
-  
-  <div style="height: 400px; overflow-y: auto; background-color: #0D1117; padding: 10px; border-radius: 10px;">
-      <h2> 💼 Professional Work Showcase</h2>
-  <table align="center" style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10&color=0D1117" alt="streak stats" />
-      </td>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
-      </td>
-    </tr>
-    <tr style="background-color: #0D1117;">
-      <td colspan="2" align="center" style="padding: 10px;">
-        <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%23006DFB.svg?style=for-the-badge" alt="Smart Translation SaaS" />
-        </a>
-        <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
-          <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%234CAF50.svg?style=for-the-badge" alt="Interactive Mapping System" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<div>
+<h2> 💼 Professional Work Showcase</h2>
+<a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%23006DFB.svg?style=for-the-badge" alt="Smart Translation SaaS" />
+</a>
+<a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
+  <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%234CAF50.svg?style=for-the-badge" alt="Interactive Mapping System" />
+</a>
 </div>
+
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
