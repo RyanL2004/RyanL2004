@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c)
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/RyanL2004)
+
 
 <!--
 **RyanL2004/RyanL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
