@@ -21,10 +21,10 @@
 <div align="center">
   <h2>🌟Professional Work Showcase</h2>
   <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20App-%23006DFB.svg?style=for-the-badge" alt="View SaaS Translation App" />
+    <img src="https://img.shields.io/badge/View%20App-%23006DFB.svg?style=for-the-badge" alt="SaaS Translation App" />
   </a>
   <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20System-%234CAF50.svg?style=for-the-badge" alt="View Totterdown Nature Reserve System" />
+    <img src="https://img.shields.io/badge/View%20System-%234CAF50.svg?style=for-the-badge" alt="Web System" />
   </a>
 </div>
 
