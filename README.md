@@ -77,6 +77,22 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎓 Bachelor's Degree</h3>
+      <p>Bachelor of Science in Software Engineering</p>
+    </td>
+    <td align="center" width="50%">
+      <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </td>
+    <td align="center" width="25%">
+      <h3>📜 IBM Certification</h3>
+      <a href="https://www.ibm.com/training/path/ibmcert_fullstack">Full-Stack Development Certification</a>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 <hr/>
