@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Rayan's stats](https://github-readme-stats.vercel.app/api?username=RyanL2004&show_icons=true&theme=transparent)
 
 <!--
 **RyanL2004/RyanL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
