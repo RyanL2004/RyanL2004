@@ -1,6 +1,5 @@
 ## Hi there 👋
-<div align="center">
-  ![image](https://github.com/user-attachments/assets/fa195190-9e8f-421e-b1f0-28939c6ba3d4)
+![image](https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c)
 
 <!--
 **RyanL2004/RyanL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
