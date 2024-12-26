@@ -62,13 +62,32 @@
 
 <br/>
 
-<div align="center">
-  <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=250 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    </td>
+    <td align="center" width="50%">
+      <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<hr/>
+
+<h2 align="center"><strong>🔥 Contributions 🔥</strong></h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c" alt="Contributions" />
+</div>
+
 
 <hr/>
 
