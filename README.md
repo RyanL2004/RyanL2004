@@ -61,7 +61,7 @@
 
 <br/>
 
-<table align="center">
+<table align="center" style="background-color: black">
   <tr>
     <td align="center" width="50%">
       <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&bg_color=0D1117&border_radius=10" alt="streak stats" />
