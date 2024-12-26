@@ -5,7 +5,6 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
 
-<p>Im a Graduate/Junior Software Engineer</p>
 
 <br>
 <div align=center>
@@ -16,7 +15,7 @@
 
 <br/><br/>
 
-<p>I'm a 21 years old, Proficient in programming languages such as JavaScript, Python,
+<p>I'm a 21 year old graduate Software Engineer, Proficient in programming languages such as JavaScript, Python,
 and Java, with a strong interest in modern Libraries</p>
 <hr/>
 
