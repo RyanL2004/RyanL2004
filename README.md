@@ -18,21 +18,17 @@
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/> <br/>
        <img src="https://skillicons.dev/icons?i=react,nodejs,redux,django,spring&perline=5"/> <br /> 
-      <br clear="both">
-
-<img align="top-right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFqbnljN2ludm1oa3pxMnhiZ2V6M3BwZHg1ZWwxaGU4bGF3b2d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-      <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
+       <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
   </a>
-    
-
-
-
-
 </div>
+<div align="right">
+<br clear="both">
+<img align="top-right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFqbnljN2ludm1oa3pxMnhiZ2V6M3BwZHg1ZWwxaGU4bGF3b2d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<div/>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
