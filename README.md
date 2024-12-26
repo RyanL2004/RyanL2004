@@ -6,6 +6,7 @@
 
 <h3 align="center">A passionate 🎓 Graduate Software Engineer!</h3>
 
+
 <div align="center">
     <h3> My work <h3/>
   <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
@@ -15,7 +16,7 @@
     <img src="https://img.shields.io/badge/Totterdown%20Nature%20Reserve-%234CAF50.svg?style=for-the-badge" alt="Totterdown Nature Reserve" />
   </a>
 </div>
-
+<br />
 
 <div align="center"> 
   <a href="mailto:rayanlouahche2004@gmail.com">
