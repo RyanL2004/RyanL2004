@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/rayanlouahche" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://RyanL2004.github.io" target="_blank">
+  <a href="https://main.d3s5w6u882p2nt.amplifyapp.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
