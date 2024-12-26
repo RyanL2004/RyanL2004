@@ -21,9 +21,16 @@
 <div align="center">
   <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/> <br/>
-       <img src="https://skillicons.dev/icons?i=react,nodejs,redux,django,spring&perline=5"/> <br /> <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFqbnljN2ludm1oa3pxMnhiZ2V6M3BwZHg1ZWwxaGU4bGF3b2d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+       <img src="https://skillicons.dev/icons?i=react,nodejs,redux,django,spring&perline=5"/> <br /> 
       <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
   </a>
+    ###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFqbnljN2ludm1oa3pxMnhiZ2V6M3BwZHg1ZWwxaGU4bGF3b2d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
 </div>
 <br>
 <div align=center>
