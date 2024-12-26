@@ -1,14 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RyanL2004/RyanL2004/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-![Rayan's stats](https://github-readme-stats.vercel.app/api?username=RyanL2004&show_icons=true&theme=transparent)
-https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg
-[https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg](url)
+  ![image](https://github.com/user-attachments/assets/fa195190-9e8f-421e-b1f0-28939c6ba3d4)
 
 <!--
 **RyanL2004/RyanL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
