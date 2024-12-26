@@ -19,16 +19,10 @@
 <br/>
 
 <div align="center">
-  <h2>🌟 Featured Projects</h2>
-
-  <h3>🛠️ SaaS Translation App</h3>
-  <p>A software as a service platform designed for seamless text translation.</p>
+  <h2>🌟Professional Work Showcase</h2>
   <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/View%20App-%23006DFB.svg?style=for-the-badge" alt="View SaaS Translation App" />
   </a>
-
-  <h3>🌳 Totterdown Nature Reserve System</h3>
-  <p>A web-based management system for an organization supporting community and nature.</p>
   <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
     <img src="https://img.shields.io/badge/View%20System-%234CAF50.svg?style=for-the-badge" alt="View Totterdown Nature Reserve System" />
   </a>
