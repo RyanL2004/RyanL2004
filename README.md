@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"/>
+       <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/>
   </a>
 </div>
 <br>
