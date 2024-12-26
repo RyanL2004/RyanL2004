@@ -23,7 +23,7 @@
   <a href="https://skillicons.dev">
        <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/> <br/>
        <img src="https://skillicons.dev/icons?i=react,nodejs,redux,django,spring&perline=5"/> <br /> 
-       <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
+       <img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
   </a>
 
 
