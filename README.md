@@ -64,7 +64,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10&bg_color=0D1117" alt="streak stats" />
+      <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&bg_color=0D1117&border_radius=10" alt="streak stats" />
     </td>
     <td align="center" width="50%">
       <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117" alt="readme stats" />
