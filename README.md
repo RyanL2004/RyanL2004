@@ -19,6 +19,14 @@
 </div>
 <br/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,python,java,spring,mysql,php,cs,dotnet" />
+  </a>
+</div>
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
