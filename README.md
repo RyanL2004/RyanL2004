@@ -81,12 +81,3 @@
 <br/>
 
 <hr/>
-
-<h2 align="center"><strong>🔥 Contributions 🔥</strong></h2>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c" alt="Contributions" />
-</div>
-
-
-<hr/>
