@@ -7,13 +7,13 @@
 <h3 align="center">🎓 Graduate Software Engineer!</h3>
 <div align="center"> 
   <a href="mailto:rayanlouahche2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
   </a>
   <a href="https://linkedin.com/in/rayan-louahche" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>
   <a href="https://main.d3s5w6u882p2nt.amplifyapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />  
   </a>
 </div>
 <br/>
