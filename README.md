@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/05bfdf68-c90c-4e59-8784-c2b3bcf35a0c)
-![GitHub Contributions](https://github-contributions.vercel.app/api/v1/RyanL2004)
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/ryanL2004)
 
 
 <!--
