@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="background-color: black;">
+    <td colspan="2" align="center" style="background-color: #0D1117; padding: 10px;">
       <img width=250 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
   </tr>
