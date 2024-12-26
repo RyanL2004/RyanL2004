@@ -36,8 +36,7 @@
 
 <br/><br/>
 
-<p>I'm a 21 year old graduate Software Engineer, Proficient in programming languages such as JavaScript, Python,
-and Java, with a strong interest in modern Libraries</p>
+
 <hr/>
 
 <h2><strong>Contributions</strong></h2>
