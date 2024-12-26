@@ -17,12 +17,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn%20Views-500+-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Views Badge" />
-  <img src="https://img.shields.io/badge/Developed%20Applications-10+-success?style=for-the-badge&logo=github" alt="Developed Applications Badge" />
-</div>
-
-
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
