@@ -1,5 +1,4 @@
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFqbnljN2ludm1oa3pxMnhiZ2V6M3BwZHg1ZWwxaGU4bGF3b2d6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
+<img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan+Louahche!;" />
 </h1>
@@ -59,4 +58,3 @@
 <div align=center>
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
