@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%23006DFB.svg?style=for-the-badge" alt="🤖 Smart Translation SaaS" />
 </a>
 <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
-  <img src="https://img.shields.io/badge/🌿Interactive%20Mapping%20System-%234CAF50.svg?style=for-the-badge" alt="🌿 Interactive Mapping System" />
+  <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%234CAF50.svg?style=for-the-badge" alt="🌿 Interactive Mapping System" />
 </a>
 </div>
 
