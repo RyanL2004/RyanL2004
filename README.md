@@ -71,8 +71,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="background-color: #0D1117; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanL2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+    <td colspan="2" align="center">
+      <img width=250 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&bg_color=0D1117&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </td>
   </tr>
 </table>
