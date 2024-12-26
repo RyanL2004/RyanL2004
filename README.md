@@ -27,7 +27,9 @@
 </div>
 
 <div align="center">
+     <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
+     </a>
 </div>
 <br>
 <div align=center>
