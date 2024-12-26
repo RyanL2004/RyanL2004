@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/>
+       <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/> <br/>
        <img src="https://skillicons.dev/icons?i=react,node,express,django,spring&perline=5"/>
   </a>
 </div>
