@@ -33,7 +33,7 @@
 <br/><br/>
 <hr/>
 
-<h2 align="center"><strong>Contributions</strong></h2>
+<h2 align="center"><strong>🔥Contributions🔥</strong></h2>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 
 
-<h2> <strong>Tech stacks:</strong></h2>
+<h2><strong>Tech stacks:</strong></h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
