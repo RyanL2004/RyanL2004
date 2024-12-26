@@ -1,11 +1,12 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan+Louahche!;" />
 </h1>
 
+<h3 align="center">A passionate Graduate Software Engineer ![image](https://github.com/user-attachments/assets/b1df7005-6a42-49f8-9ae2-e0bf62c3b838)</h3>
 
 <br/>
-<img align="right" src="https://komarev.com/ghpvc/?username=RyanL2004&color=blue&base=1000">
-
 
 <br>
 <div align=center>
