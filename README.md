@@ -17,13 +17,11 @@
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="left">
-  <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=js,html,css,python,java&perline=5"/> <br/>
-       <img src="https://skillicons.dev/icons?i=react,nodejs,redux,django,spring&perline=5"/> <br /> 
-       <img src="https://skillicons.dev/icons?i=aws,azure,docker,postman,git&perline=5"/>
-  </a>
+
+<div>
+    [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 </div>
+
 
 
 <br>
