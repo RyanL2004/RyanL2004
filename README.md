@@ -18,9 +18,9 @@
 </div>
 <br/>
 
-<table align="center" style="width: 100%; border-collapse: collapse;">
+<table align="left" style="width: 50%;">
     <tr>
-        <td align="left" width="50%">
+        <td align="center" width="50%">
             <h2> 💼 Professional Work Showcase</h2>
             <div style="display: inline-block; margin-right: 15px;">
           <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
@@ -32,8 +32,10 @@
         </a>
         </td>
     </tr>
+</table>
+<table align="right">
 <tr>
-<td align = "right" width="50%">
+<td align = "center" width="50%">
 <h2> 🔨 Currently Working On</h2>
 <div style="display: inline-block; margin-right: 15px;">
   <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
@@ -46,6 +48,7 @@
 </td>
 </tr>
 </table>
+
 
 
 
