@@ -89,19 +89,23 @@
 <br/>
 
 <div>
-  <table align="center" style="width: 100%; border-collapse: collapse;">
+  <table align="center" width="30%">
     <tr>
       <td align="center" width="50%" color="black">
          <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10&bgcolor=0D1117" alt="streak stats" />
       </td>
+    </tr>
+  </table>
+    <table align="center" width="30%">
+    <tr>
       <td align="center" width="50%">
         <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       </td>
     </tr>
     </table>
-    <table align="center" style="width: 100%; border-collapse: collapse;">
+    <table align="center" width="30%">
     <tr>
-      <td colspan="2" align="center">
+      <td align="center">
         <img width=250 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=RyanL2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
       </td>
     </tr>
