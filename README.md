@@ -22,7 +22,7 @@
   <tr>
   
 <td align="center" width="50%">
-      <h2>💼Notable Work</h2>
+      <h2>💼Notable work</h2>
       <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
         <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%230045A0.svg?style=for-the-badge&logo=translation" alt="Smart Translation SaaS" />
       </a>
@@ -34,7 +34,7 @@
 
         
 <td align="center" width="50%">
-      <h2>🔨Currently Working..</h2>
+      <h2>🔨Currently working..</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
         <img src="https://img.shields.io/badge/e--Paradise%20Shopping-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Paradise Shopping" />
       </a>
