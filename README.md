@@ -91,14 +91,14 @@
 <div>
   <table align="center" width="30%">
     <tr>
-      <td align="center" width="50%" color="black">
+      <td align="center">
          <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RyanL2004&count_private=true&theme=react&border_radius=10&bgcolor=0D1117" alt="streak stats" />
       </td>
     </tr>
   </table>
     <table align="center" width="30%">
     <tr>
-      <td align="center" width="50%">
+      <td align="center">
         <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
       </td>
     </tr>
