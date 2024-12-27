@@ -18,8 +18,8 @@
 </div>
 <br />
 
-<div aling ="center">
- <div align = "left">
+<div align ="center">
+<div align="left">
  <h2> 💼 Professional Work Showcase</h2>
             <div style="margin-bottom: 15px;">
               <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
@@ -29,7 +29,7 @@
             <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
               <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" style="border-radius: 5px;" />
             </a>
- </div>
+</div>
 
 
 <div align="right">
@@ -44,13 +44,6 @@
     </a>
 </div>
 </div>
-
-
-
-
-
-
-
 
 <br/>
 <br/>
