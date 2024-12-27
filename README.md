@@ -18,10 +18,7 @@
 </div>
 <br />
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-
-
-
+<div aling ="center">
  <div align = "left">
  <h2> 💼 Professional Work Showcase</h2>
             <div style="margin-bottom: 15px;">
@@ -46,8 +43,10 @@
         <img src="https://img.shields.io/badge/e--Commerce%20Platform-%232F6B32.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" style="border-radius: 5px;" />
     </a>
 </div>
-
 </div>
+
+
+
 
 
 
