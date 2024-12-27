@@ -18,9 +18,10 @@
 </div>
 <br />
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- Left Element -->
-  <div style="width: 48%;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+
+  <!-- Left Section -->
+  <div style="width: 48%; text-align: center;">
     <h2> 💼 Professional Work Showcase</h2>
     <div style="margin-bottom: 15px;">
       <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
@@ -32,8 +33,8 @@
     </a>
   </div>
 
-  <!-- Right Element -->
-  <div style="width: 48%;">
+  <!-- Right Section -->
+  <div style="width: 48%; text-align: center;">
     <h2> 🔨 Currently Working On</h2>
     <div style="margin-bottom: 15px;">
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
@@ -44,7 +45,9 @@
       <img src="https://img.shields.io/badge/e--Commerce%20Platform-%232F6B32.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" style="border-radius: 5px;" />
     </a>
   </div>
+
 </div>
+
 
 
 <br/>
