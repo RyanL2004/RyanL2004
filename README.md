@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />  
   </a>
 </div>
-<br/>
-
+<br />
+<div>
 <table align="left" style="width: 50%;">
     <tr>
         <td align="center" width="50%">
@@ -48,10 +48,9 @@
 </td>
 </tr>
 </table>
+</div>
+
 <br/>
-
-
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
