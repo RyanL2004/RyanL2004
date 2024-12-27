@@ -24,7 +24,7 @@
     <tr>
         <td align="center">
             <h2> 💼 Professional Work Showcase</h2>
-            <div style="margin-bottom: 15px;">
+            <div>
               <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
                 <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%230045A0.svg?style=for-the-badge&logo=translation" alt="Smart Translation SaaS" style="border-radius: 5px;" />
               </a>
@@ -40,7 +40,7 @@
     <tr>
         <td align="center">
             <h2> 🔨 Currently Working On</h2>
-            <div style="margin-bottom: 15px;">
+            <div>
               <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
                 <img src="https://img.shields.io/badge/e--Paradise%20Shopping-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Paradise Shopping" style="border-radius: 5px;" />
               </a>
