@@ -18,10 +18,11 @@
 </div>
 <br/>
 
-
-<div align="center" width="50%">
-<h2> 💼 Professional Work Showcase</h2>
-<div style="display: inline-block; margin-right: 15px;">
+<table align="center" style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td align="center" width="50%">
+            <h2> 💼 Professional Work Showcase</h2>
+            <div style="display: inline-block; margin-right: 15px;">
           <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
             <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%230045A0.svg?style=for-the-badge&logo=translation" alt="Smart Translation SaaS" style="border-radius: 5px;" />
           </a>
@@ -29,8 +30,10 @@
         <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
           <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" style="border-radius: 5px;" />
         </a>
-</div>
-<div align = "center" width="50%">
+        </td>
+    </tr>
+<tr>
+<td align = "center" width="50%">
 <h2> 🔨 Currently Working On</h2>
 <div style="display: inline-block; margin-right: 15px;">
   <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
@@ -42,8 +45,9 @@
     <img src="https://img.shields.io/badge/e--Commerce%20Platform-%232F6B32.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" style="border-radius: 5px;" />
   </a>
 </div>
-</div>
-
+</td>
+</tr>
+</table>
 
 
 
