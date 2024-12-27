@@ -20,7 +20,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
 
-<table align="center" width="50%">
+<table align="left" width="50%">
     <tr>
         <td align="center">
             <h2> 💼 Professional Work Showcase</h2>
@@ -36,7 +36,7 @@
     </tr>
 </table>
 
-<table align="center" width="50%">
+<table align="right" width="50%">
     <tr>
         <td align="center">
             <h2> 🔨 Currently Working On</h2>
