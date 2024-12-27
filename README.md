@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayan+Louahche!;" />
 </h1>
 
-<h3 align="center">🎓 Graduate Software Engineer!</h3>
+<h3 align="center">🎓Graduate Software Engineer!</h3>
 <div align="center"> 
   <a href="mailto:rayanlouahche2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />  
@@ -22,7 +22,7 @@
   <tr>
   
 <td align="center" width="50%">
-      <h2>💼 Professional Work Showcase</h2>
+      <h2>💼Portfolio Highlights</h2>
       <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
         <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%230045A0.svg?style=for-the-badge&logo=translation" alt="Smart Translation SaaS" />
       </a>
@@ -34,7 +34,7 @@
 
         
 <td align="center" width="50%">
-      <h2>🔨 Currently Working On</h2>
+      <h2>🔨Currently Working On</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
         <img src="https://img.shields.io/badge/e--Paradise%20Shopping-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Paradise Shopping" />
       </a>
