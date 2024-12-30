@@ -46,8 +46,6 @@
   </tr>
 </table>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
 <div align="center">
   <h3>Languages:</h3>
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
