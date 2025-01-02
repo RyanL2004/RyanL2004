@@ -23,11 +23,11 @@
   
 <td align="center" width="50%">
       <h2>💼Notable work</h2>
-      <a href="https://main.d2kq90havoolfb.amplifyapp.com/" target="_blank">
+      <a href="https://github.com/RyanL2004/Smart-Translation-SaaS.git" target="_blank">
         <img src="https://img.shields.io/badge/Smart%20Translation%20SaaS-%230045A0.svg?style=for-the-badge&logo=translation" alt="Smart Translation SaaS" />
       </a>
       <br />
-      <a href="https://www.tresa.org.uk/totterdown-nature-reserve/" target="_blank">
+      <a href="https://github.com/RyanL2004/tresa-urban-project.git" target="_blank">
         <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" />
       </a>
     </td>
