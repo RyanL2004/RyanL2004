@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-%23F05032.svg?logo=azure&logoColor=blue" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/RESTful%20APIs-%23000000.svg?logo=api&logoColor=white" alt="RESTful APIs" />
 
   <h3>Databases:</h3>
