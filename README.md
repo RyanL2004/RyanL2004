@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white" alt="Redux" />
