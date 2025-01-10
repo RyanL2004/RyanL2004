@@ -23,7 +23,7 @@
   
 <td align="center" width="50%">
       <h2>💼Notable work</h2>
-      <a href="https://github.com/RyanL2004/Smart-Translation-SaaS.git" target="_blank">
+      <a href="https://github.com/RyanL2004/WeTranslate-v1.0.1" target="_blank">
         <img src="https://img.shields.io/badge/We%20Translate-%230045A0.svg?style=for-the-badge&logo=translation" alt="WeTranslate" />
       </a>
       <br />
