@@ -31,10 +31,18 @@
         <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" />
       </a>
     </td>
-
-        
 <td align="center" width="50%">
       <h2>🔭Currently working</h2>
+      <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
+        <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
+      </a>
+      <br />
+      <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
+        <img src="https://img.shields.io/badge/e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" />
+      </a>
+    </td>
+<td align="center" width="50%">
+      <h2>🔭Currently Contributing</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
         <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
       </a>
