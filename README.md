@@ -21,7 +21,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h2>🌐 Notable Work</h2>
+      <h2>🚀 Notable Work</h2>
       <a href="https://github.com/RyanL2004/WeTranslate-v1.0.1" target="_blank">
         <img src="https://img.shields.io/badge/🌐%20We%20Translate-1E90FF.svg?style=for-the-badge" alt="We Translate" />
       </a>
@@ -44,10 +44,6 @@
       <h2>🤝 Contributing To...</h2>
       <a href="https://github.com/romain/test" target="_blank">
         <img src="https://img.shields.io/badge/🧪%20GitIngest-FF6347.svg?style=for-the-badge" alt="GitIngest" />
-      </a>
-      <br />
-      <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
-        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-20B2AA.svg?style=for-the-badge" alt="e-Commerce Platform" />
       </a>
     </td>
   </tr>
