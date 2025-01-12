@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="33%">
       <h2>🤝 Contributing To...</h2>
-      <a href="[https://github.com/romain/test](https://github.com/cyclotruc/gitingest.git)" target="_blank">
+      <a href="https://github.com/cyclotruc/gitingest.git" target="_blank">
         <img src="https://img.shields.io/badge/🧪%20GitIngest-FF6347.svg?style=for-the-badge" alt="GitIngest" />
       </a>
     </td>
