@@ -32,7 +32,7 @@
       </a>
     </td>
 <td align="center" width="33%">
-      <h2>🔭Currently working</h2>
+      <h2>🔭 Working on...</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
         <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
       </a>
@@ -42,7 +42,7 @@
       </a>
     </td>
 <td align="center" width="33%">
-      <h2>🤝 Contributing</h2>
+      <h2>🤝 Contributing on...</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
         <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
       </a>
