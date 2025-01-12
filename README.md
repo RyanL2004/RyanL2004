@@ -20,39 +20,39 @@
 
 <table align="center" width="100%">
   <tr>
-  
-<td align="center" width="33%">
-      <h2>🚀Notable work</h2>
+    <td align="center" width="33%">
+      <h2>🚀 Notable Work</h2>
       <a href="https://github.com/RyanL2004/WeTranslate-v1.0.1" target="_blank">
-        <img src="https://img.shields.io/badge/We%20Translate-%230045A0.svg?style=for-the-badge&logo=translation" alt="WeTranslate" />
+        <img src="https://img.shields.io/badge/🚀%20We%20Translate-%230045A0.svg?style=for-the-badge&logo=translation" alt="We Translate" />
       </a>
       <br />
-      <a href="https://github.com/RyanL2004/tresa-urban-project.git" target="_blank">
-        <img src="https://img.shields.io/badge/Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" />
+      <a href="https://github.com/RyanL2004/tresa-urban-project" target="_blank">
+        <img src="https://img.shields.io/badge/🗺️%20Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" />
       </a>
     </td>
-<td align="center" width="33%">
-      <h2>🔭 Working on...</h2>
+    <td align="center" width="33%">
+      <h2>🔭 Working On...</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
-        <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
+        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=shopify" alt="Paradise Shop" />
       </a>
       <br />
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
-        <img src="https://img.shields.io/badge/e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" />
+        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=react" alt="e-Commerce Platform" />
       </a>
     </td>
-<td align="center" width="33%">
-      <h2>🤝 Contributing on...</h2>
+    <td align="center" width="33%">
+      <h2>🤝 Contributing To...</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
-        <img src="https://img.shields.io/badge/Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=github" alt="Paradise Shop" />
+        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=shopify" alt="Paradise Shop" />
       </a>
       <br />
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
-        <img src="https://img.shields.io/badge/e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=github" alt="e-Commerce Platform" />
+        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=react" alt="e-Commerce Platform" />
       </a>
     </td>
   </tr>
 </table>
+
 
 <div align="center">
   <h3>Languages:</h3>
