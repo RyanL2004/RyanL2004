@@ -36,10 +36,6 @@
         <img src="https://img.shields.io/badge/🧪%20GitIngest-FF6347.svg?style=for-the-badge" alt="GitIngest" />
       </a>
     <br />
-      <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
-        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-FF4500.svg?style=for-the-badge" alt="Paradise Shop" />
-      </a>
-      <br />
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
         <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-20B2AA.svg?style=for-the-badge" alt="e-Commerce Platform" />
       </a>
@@ -48,6 +44,9 @@
       <h2>🤝 Contributing To...</h2>
       <a href="https://github.com/cyclotruc/gitingest.git" target="_blank">
         <img src="https://img.shields.io/badge/🧪%20GitIngest-FF6347.svg?style=for-the-badge" alt="GitIngest" />
+      </a>
+        <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
+        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-FF4500.svg?style=for-the-badge" alt="Paradise Shop" />
       </a>
     </td>
   </tr>
