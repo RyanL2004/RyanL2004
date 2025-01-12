@@ -21,37 +21,38 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <h2>🚀 Notable Work</h2>
+      <h2>🌐 Notable Work</h2>
       <a href="https://github.com/RyanL2004/WeTranslate-v1.0.1" target="_blank">
-        <img src="https://img.shields.io/badge/🚀%20We%20Translate-%230045A0.svg?style=for-the-badge&logo=translation" alt="We Translate" />
+        <img src="https://img.shields.io/badge/🌐%20We%20Translate-1E90FF.svg?style=for-the-badge" alt="We Translate" />
       </a>
       <br />
       <a href="https://github.com/RyanL2004/tresa-urban-project" target="_blank">
-        <img src="https://img.shields.io/badge/🗺️%20Interactive%20Mapping%20System-%232F6B32.svg?style=for-the-badge&logo=map" alt="Interactive Mapping System" />
+        <img src="https://img.shields.io/badge/🗺️%20Interactive%20Mapping%20System-228B22.svg?style=for-the-badge" alt="Interactive Mapping System" />
       </a>
     </td>
     <td align="center" width="33%">
       <h2>🔭 Working On...</h2>
       <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
-        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=shopify" alt="Paradise Shop" />
+        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-FF4500.svg?style=for-the-badge" alt="Paradise Shop" />
       </a>
       <br />
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
-        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=react" alt="e-Commerce Platform" />
+        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-20B2AA.svg?style=for-the-badge" alt="e-Commerce Platform" />
       </a>
     </td>
     <td align="center" width="33%">
       <h2>🤝 Contributing To...</h2>
-      <a href="https://github.com/RyanL2004/e-paradiseShopping" target="_blank">
-        <img src="https://img.shields.io/badge/🛒%20Paradise%20Shop-%232F6B32.svg?style=for-the-badge&logo=shopify" alt="Paradise Shop" />
+      <a href="https://github.com/romain/test" target="_blank">
+        <img src="https://img.shields.io/badge/🧪%20GitIngest-FF6347.svg?style=for-the-badge" alt="GitIngest" />
       </a>
       <br />
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
-        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-%230045A0.svg?style=for-the-badge&logo=react" alt="e-Commerce Platform" />
+        <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-20B2AA.svg?style=for-the-badge" alt="e-Commerce Platform" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <div align="center">
