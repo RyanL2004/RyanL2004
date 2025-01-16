@@ -113,7 +113,6 @@
       </td>
     </tr>
     </table>
-    <img width = 250 src ="https://github-readme-stats.vercel.app/api?username=RyanL2004&theme=dark&show_icons=true" />
 </div>
   
     
