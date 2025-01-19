@@ -102,7 +102,7 @@
       </td>
       
  <td align="center" width="50%">
-        <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+        <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=RyanL2004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10?v=1" alt="readme stats" />
       </td>
     </tr>
     </table>
