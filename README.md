@@ -102,7 +102,7 @@
       </td>
     -->
 <td align="center" width="50%" color="black">
-<img width=300 src ="https://nirzak-streak-stats.vercel.app?user=RyanL2004&theme=react" alt="https://git.io/streak-stats" />
+<img width=300 src ="https://nirzak-streak-stats.vercel.app?user=RyanL2004&theme=react" alt="https://git.io/streak-stats?v=1" />
 </td>
       
  <td align="center" width="50%">
