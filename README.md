@@ -39,9 +39,11 @@
       <a href="https://github.com/RyanL2004/e-Commerce-Platform" target="_blank">
         <img src="https://img.shields.io/badge/💻%20e--Commerce%20Platform-20B2AA.svg?style=for-the-badge" alt="e-Commerce Platform" />
       </a>
+    <!--
       <a href="https://github.com/RyanL2004/meeting-companion" target="_blank">
     <img src="https://img.shields.io/badge/🤖%20AI--Meeting%20Companion-9370DB.svg?style=for-the-badge" alt="AI Meeting Companion" />
       </a>
+    -->
     </td>
     <td align="center" width="33%">
       <h2>🤝 Contributing To...</h2>
