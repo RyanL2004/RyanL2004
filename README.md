@@ -15,6 +15,9 @@
   <a href="https://main.d3s5w6u882p2nt.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />  
   </a>
+  <a href="https://leetcode.com/u/RyanLou/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </div>
 <br />
 
